@@ -40,6 +40,8 @@ export default defineConfig({
               name: 'Portfolio',
               short_name: 'Portfolio',
               description: 'Personal Portfolio',
+              start_url: '/',
+              scope: '/',
               icons: [
                 {
                   src: 'logo.png',

@@ -18,7 +18,7 @@ const CONFIG = {
   github: {
     username: 'Anshulranjan845', // Your GitHub org/user name. (This is the only required config)
   },
-  base: '/gitprofile/',
+  base: '/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -86,7 +86,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1KMVjVXsepcWilU94LpbNv0zZ_XrOJCj2/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
 
   skills: [
