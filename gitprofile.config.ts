@@ -86,7 +86,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1KMVjVXsepcWilU94LpbNv0zZ_XrOJCj2/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1pec7GwuyJVdAu7MJM2U5FaoPdy6ENZam/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
 
   skills: [
@@ -104,7 +104,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'Ltimindtree',
-      position: 'Application and Backend Engineer',
+      position: 'Application and Backend support Engineer',
       from: 'December 2020',
       to: 'Present',
       companyLink: 'https://LTIMINDTREE.com',
